@@ -1,0 +1,102 @@
+name: UpdateData
+
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+env:
+  apiKey: ${{ secrets.APIKEY }}
+  apiSecret: ${{ secrets.APISECRET }}
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 100
+
+      - name: Install Simulationcraft
+        run: |
+          $WebClient = New-Object System.Net.WebClient
+          $WebClient.DownloadFile("http://downloads.simulationcraft.org/nightly/simc-1010.01.f4bda22-win64.7z","C:\simc.7z")
+          7z x C:\simc.7z -oc:\simc
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+
+      - name: Generate Simulationcraft XMLs
+        run: |
+          Set-Location -Path c:\simc\simc-1010.01.f4bda22-win64
+
+          ./simc spell_query="spell.class==warrior|spec_spell.class==warrior" spell_query_xml_output_file="warrior.xml"
+          ./simc spell_query="talent.class==warrior" spell_query_xml_output_file="warrior-talent.xml"
+
+          ./simc spell_query="spell.class==paladin|spec_spell.class==paladin" spell_query_xml_output_file="paladin.xml"
+          ./simc spell_query="talent.class==paladin" spell_query_xml_output_file="paladin-talent.xml"
+          
+          ./simc spell_query="spell.class==hunter|spec_spell.class==hunter" spell_query_xml_output_file="hunter.xml"
+          ./simc spell_query="talent.class==hunter" spell_query_xml_output_file="hunter-talent.xml"
+          
+          ./simc spell_query="spell.class==rogue|spec_spell.class==rogue" spell_query_xml_output_file="rogue.xml"
+          ./simc spell_query="talent.class==rogue" spell_query_xml_output_file="rogue-talent.xml"
+          
+          ./simc spell_query="spell.class==priest|spec_spell.class==priest" spell_query_xml_output_file="priest.xml"
+          ./simc spell_query="talent.class==priest" spell_query_xml_output_file="priest-talent.xml"
+          
+          ./simc spell_query="talent.class==shaman" spell_query_xml_output_file="shaman-talent.xml"
+          ./simc spell_query="spell.class==shaman|spec_spell.class==shaman" spell_query_xml_output_file="shaman.xml"
+          
+          ./simc spell_query="spell.class==mage|spec_spell.class==mage" spell_query_xml_output_file="mage.xml"
+          ./simc spell_query="talent.class==mage" spell_query_xml_output_file="mage-talent.xml"
+          
+          ./simc spell_query="spell.class==warlock|spec_spell.class==warlock" spell_query_xml_output_file="warlock.xml"
+          ./simc spell_query="talent.class==warlock" spell_query_xml_output_file="warlock-talent.xml"
+          
+          ./simc spell_query="spell.class==monk|spec_spell.class==monk" spell_query_xml_output_file="monk.xml"
+          ./simc spell_query="talent.class==monk" spell_query_xml_output_file="monk-talent.xml"
+          
+          ./simc spell_query="spell.class==druid|spec_spell.class==druid" spell_query_xml_output_file="druid.xml"
+          ./simc spell_query="talent.class==druid" spell_query_xml_output_file="druid-talent.xml"
+          
+          ./simc spell_query="spell.class==demonhunter|spec_spell.class==demonhunter" spell_query_xml_output_file="demonhunter.xml"
+          ./simc spell_query="talent.class==demonhunter" spell_query_xml_output_file="demonhunter-talent.xml"
+          
+          ./simc spell_query="spell.class==deathknight|spec_spell.class==deathknight" spell_query_xml_output_file="deathknight.xml"
+          ./simc spell_query="talent.class==deathknight" spell_query_xml_output_file="deathknight-talent.xml"
+          
+          ./simc spell_query="spell.class==evoker|spec_spell.class==evoker" spell_query_xml_output_file="evoker.xml"
+          ./simc spell_query="talent.class==evoker" spell_query_xml_output_file="evoker-talent.xml"
+
+      - name: Convert Simulationcraft XMLs to CSV
+        run: |
+          Set-Location -Path c:\simc\simc-1010.01.f4bda22-win64
+          php ${{ github.workspace }}\xmltocsv.php warrior
+          php ${{ github.workspace }}\xmltocsv.php paladin
+          php ${{ github.workspace }}\xmltocsv.php hunter
+          php ${{ github.workspace }}\xmltocsv.php rogue
+          php ${{ github.workspace }}\xmltocsv.php priest
+          php ${{ github.workspace }}\xmltocsv.php shaman
+          php ${{ github.workspace }}\xmltocsv.php mage
+          php ${{ github.workspace }}\xmltocsv.php warlock
+          php ${{ github.workspace }}\xmltocsv.php monk
+          php ${{ github.workspace }}\xmltocsv.php druid
+          php ${{ github.workspace }}\xmltocsv.php demonhunter
+          php ${{ github.workspace }}\xmltocsv.php deathknight
+          php ${{ github.workspace }}\xmltocsv.php evoker
+
+      - name: Upload
+        uses: actions/upload-artifact@v3
+        with:
+            name: files
+            path: | 
+              c:\simc\simc-1010.01.f4bda22-win64\*.xml
+              c:\simc\simc-1010.01.f4bda22-win64\*.csv
