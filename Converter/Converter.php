@@ -72,6 +72,19 @@ class Converter
 		$constantsList->makeNewline();
 		$constantsList->write();
 
+		$constantsList->makeVariable("itemID", "GetInventoryItemID('player', INVSLOT_MAINHAND)");
+		$constantsList->write();
+		$constantsList->makeNewline();
+		$constantsList->write();
+		$constantsList->makeVariable("mainHandSubClassID", "itemID and  select(13, GetItemInfo(itemID))");
+		$constantsList->write();
+		$constantsList->makeNewline();
+		$constantsList->write();
+		$constantsList->makeVariable("TwoHanderWepCheck", "mainHandSubClassID and (mainHandSubClassID == 1 or mainHandSubClassID == 5 or mainHandSubClassID == 8 or mainHandSubClassID == 10)");
+		$constantsList->write();
+		$constantsList->makeNewline();
+		$constantsList->write();
+
 		$spellList = new Element($this->handle, 0);
 		$spellList->makeArray($spellPrefix, $this->profile->spellList->toArray());
 		$spellList->write();
@@ -265,6 +278,9 @@ class Converter
 		}
 		if ($this->class == "Warrior"){
 			$children[] = $element->makeChildren()->makeVariable("canExecute", "((talents[FR.Massacre] and targetHp < 35) or targetHp < 20) or buff[FR.SuddenDeathAura].up");
+		}
+		if ($this->class == "Deathknight"){
+			$children[] = $element->makeChildren()->makeVariable("runeforge", "fd.runeforge");
 		}
 	}
 

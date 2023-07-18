@@ -11,6 +11,9 @@ class VariableHandler extends Handler
 	public function handle($lexer, $variableParts, &$output)
 	{
 		$variable = Helper::camelCase($variableParts[1]);
+		if ($variable == '2hCheck'){
+			$variable = 'TwoHanderWepCheck';
+		}
 
 		$output[] = $variable;
 	}

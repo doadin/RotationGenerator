@@ -70,7 +70,6 @@ class Action {
 			new Variable\TargetHandler($action->profile, $action),
 			new Variable\EnemyCountHandler($action->profile, $action),
 			new Variable\TimeShiftHandler($action->profile, $action),
-			new Variable\VariableHandler($action->profile, $action),
 			new Variable\WiBombHandler($action->profile, $action),
 			new Variable\TotemHandler($action->profile, $action),
 			new Variable\ActionHandler($action->profile, $action),
@@ -87,6 +86,8 @@ class Action {
 			new Variable\SetBonusHandler($action->profile, $action),
 			new Variable\TimeEventHandler($action->profile, $action),
 			new Variable\SpellHandler($action->profile, $action),
+			new Variable\ClassHandler($action->profile, $action),
+			new Variable\VariableHandler($action->profile, $action),
 		];
 
 		$exploded = explode(',', $line);
@@ -182,7 +183,6 @@ class Action {
 					$this->variableValue = $this->parseExpression($value);
 					break;
 				case 'value_else':
-					print_r($value);
 					$this->variableValueElse = $this->parseExpression($value);
 					break;
 				case 'op':
