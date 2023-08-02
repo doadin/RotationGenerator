@@ -87,6 +87,7 @@ class Action {
 			new Variable\TimeEventHandler($action->profile, $action),
 			new Variable\SpellHandler($action->profile, $action),
 			new Variable\ClassHandler($action->profile, $action),
+			new Variable\InCombatHandler($action->profile, $action),
 			new Variable\VariableHandler($action->profile, $action),
 		];
 
