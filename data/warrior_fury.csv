@@ -34,13 +34,13 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 382310,Inspiring Presence,0,0,0,1,1,0,
 280392,Meat Cleaver,0,0,0,1,1,0,
 1719,Recklessness,0,0,0,0,1,90,
-2565,Shield Block,0,0,0,0,0,13.413,RAGE:30;
+2565,Shield Block,0,0,0,0,0,13.144,RAGE:30;
 6673,Battle Shout,0,0,0,0,0,15,
 383916,Annihilator,0,0,0,1,1,0,
 383295,Deft Experience,0,0,0,1,1,0,
 382946,Wild Strikes,0,0,0,1,1,0,
 390725,Sonic Boom,0,0,0,1,1,0,
-85288,Raging Blow,0,0,0,0,1,6.706,
+85288,Raging Blow,0,0,0,0,1,6.572,
 18499,Berserker Rage,0,0,0,0,1,60,
 384090,Titanic Throw,0,8,30,0,1,8,
 383959,Cold Steel, Hot Blood,0,0,0,1,1,0,

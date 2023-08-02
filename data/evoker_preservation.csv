@@ -5,10 +5,10 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 368838,Heavy Wingbeats,0,0,0,1,1,0,
 376236,Resonating Sphere,0,0,0,1,1,0,
 370553,Tip the Scales,0,0,0,0,1,120,
-360806,Sleep Walk,1360,0,25,0,1,15,MANA:6000;
+360806,Sleep Walk,1387,0,25,0,1,15,MANA:6000;
 375443,Clobbering Sweep,0,0,0,1,1,0,
 376237,Nozdormu's Teachings,0,0,0,1,1,0,
-358267,Hover,0,0,0,0,0,35,
+358267,Hover,0,0,0,0,0,29.75,
 381921,Ouroboros,0,0,0,1,1,0,
 374968,Time Spiral,0,0,0,0,1,120,
 381922,Temporal Artificer,0,0,0,1,1,0,
@@ -19,7 +19,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 375542,Exuberance,0,0,0,1,1,0,
 362874,Temporal Compression,0,0,0,1,1,0,
 371257,Renewing Breath,0,0,0,1,1,0,
-373861,Temporal Anomaly,1360,0,0,0,1,15,MANA:18750;
+373861,Temporal Anomaly,1387,0,0,0,1,15,MANA:18750;
 376179,Lifeforce Mender,0,0,0,1,1,0,
 377100,Exhilarating Burst,0,0,0,1,1,0,
 367226,Spiritbloom,0,0,30,0,1,30,MANA:9500;
@@ -48,7 +48,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 365585,Expunge,0,0,30,0,1,8,MANA:25000;
 371806,Recall,0,0,0,1,1,0,
 374251,Cauterizing Flame,0,0,30,0,1,60,MANA:3250;MANA:0;MANA:0;
-366155,Reversion,0,0,30,0,1,8.16,MANA:6250;
+366155,Reversion,0,0,30,0,1,8.32,MANA:6250;
 370886,Bountiful Bloom,0,0,0,1,1,0,
 370537,Stasis,0,0,0,0,1,90,MANA:10000;
 360823,Naturalize,0,0,30,0,0,8,MANA:3250;
@@ -81,7 +81,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 369909,Protracted Talons,0,0,0,1,1,0,
 375783,Font of Magic,0,0,0,1,1,0,
 375561,Lush Growth,0,0,0,1,1,0,
-361178,Mass Return,9068,0,100,0,0,0,MANA:2000;
+361178,Mass Return,9245,0,100,0,0,0,MANA:2000;
 357210,Deep Breath,0,15,50,0,0,120,
 387341,Walloping Blow,0,0,0,1,1,0,
 377086,Rush of Vitality,0,0,0,1,1,0,
@@ -100,11 +100,11 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 365933,Aerial Mastery,0,0,0,1,1,0,
 382614,Dream Breath,0,0,0,0,0,30,MANA:11250;
 387761,Panacea,0,0,0,1,1,0,
-361469,Living Flame,1814,0,30,0,0,0,MANA:5000;MANA:0;MANA:0;MANA:0;
+361469,Living Flame,1849,0,30,0,0,0,MANA:5000;MANA:0;MANA:0;MANA:0;
 355913,Emerald Blossom,0,0,30,0,0,30,ESSENCE:3;MANA:12000;MANA:0;MANA:0;MANA:0;
 376138,Empath,0,0,0,1,1,0,
 372233,Energy Loop,0,0,0,1,1,0,
 362969,Azure Strike,0,0,25,0,0,0,MANA:2250;
 363534,Rewind,0,0,40,0,1,180,MANA:12500;
-361227,Return,9068,0,40,0,0,0,MANA:2000;
+361227,Return,9245,0,40,0,0,0,MANA:2000;
 377099,Spark of Insight,0,0,0,1,1,0,

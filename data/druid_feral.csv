@@ -8,7 +8,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 108299,Killer Instinct,0,0,0,1,1,0,
 774,Rejuvenation,0,0,40,0,1,0,MANA:0;MANA:0;MANA:12500;MANA:0;MANA:0;
 6795,Growl,0,0,30,0,0,8,
-22842,Frenzied Regeneration,0,0,0,0,1,30.079,RAGE:10;
+22842,Frenzied Regeneration,0,0,0,0,1,29.422,RAGE:10;
 132469,Typhoon,0,0,15,0,1,30,
 391700,Double-Clawed Rake,0,0,0,1,1,0,
 400142,Gale Winds,0,0,0,1,1,0,
@@ -52,21 +52,21 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 197625,Moonkin Form,0,0,0,0,1,0,
 33917,Mangle,0,0,0,0,0,6,
 285381,Primal Wrath,0,0,8,0,1,0,ENERGY:20;COMBO_POINTS:5;
-48438,Wild Growth,1253,0,40,0,1,10,MANA:0;MANA:0;MANA:37500;MANA:0;
+48438,Wild Growth,1226,0,40,0,1,10,MANA:0;MANA:0;MANA:37500;MANA:0;
 386318,Cat's Curiosity,0,0,0,1,1,0,
 405300,Thrashing Claws,0,0,0,1,1,0,
 127757,Charm Woodland Creature,0,0,40,0,0,30,
 301768,Verdant Heart,0,0,0,1,1,0,
-339,Entangling Roots,1420,0,35,0,0,0,MANA:3000;
+339,Entangling Roots,1389,0,35,0,0,0,MANA:3000;
 5487,Bear Form,0,0,0,0,0,0,
 327993,Improved Barkskin,0,0,0,1,1,0,
 400158,Improved Swipe,0,0,0,1,1,0,
-193753,Dreamwalk,8355,0,0,0,0,60,MANA:250;
+193753,Dreamwalk,8173,0,0,0,0,60,MANA:250;
 33873,Nurturing Instinct,0,0,0,1,1,0,
 391872,Tiger's Tenacity,0,0,0,1,1,0,
 384665,Taste for Blood,0,0,0,1,1,0,
 391174,Berserk: Heart of the Lion,0,0,0,1,1,0,
-33786,Cyclone,1420,0,20,0,1,0,MANA:3000;
+33786,Cyclone,1389,0,20,0,1,0,MANA:3000;
 106898,Stampeding Roar,0,0,10,0,1,120,
 1822,Rake,0,0,0,0,1,0,ENERGY:35;
 400320,Circle of Life and Death,0,0,0,1,1,0,
@@ -85,17 +85,17 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 391972,Lion's Strength,0,0,0,1,1,0,
 131768,Feline Swiftness,0,0,0,1,1,0,
 391528,Convoke the Spirits,0,0,0,0,1,120,
-2637,Hibernate,1253,0,30,0,1,0,MANA:3000;
+2637,Hibernate,1226,0,30,0,1,0,MANA:3000;
 390864,Wild Slashes,0,0,0,1,1,0,
 102359,Mass Entanglement,0,0,30,0,1,30,
 378988,Lycara's Teachings,0,0,0,1,1,0,
-20484,Rebirth,1671,0,40,0,0,600,RAGE:0;MANA:5000;
+20484,Rebirth,1635,0,40,0,0,600,RAGE:0;MANA:5000;
 2908,Soothe,0,0,40,0,1,10,MANA:2800;
 231063,Merciless Claws,0,0,0,1,1,0,
 48484,Infected Wounds,0,0,0,1,1,0,
-197628,Starfire,2089,0,40,0,1,0,MANA:1500;
-202028,Brutal Slash,0,0,8,0,1,6.684,ENERGY:25;
-50769,Revive,8355,0,40,0,0,0,MANA:2000;
+197628,Starfire,2043,0,40,0,1,0,MANA:1500;
+202028,Brutal Slash,0,0,8,0,1,6.538,ENERGY:25;
+50769,Revive,8173,0,40,0,0,0,MANA:2000;
 391785,Tear Open Wounds,0,0,0,1,1,0,
 377847,Well-Honed Instincts,0,0,0,1,1,0,
 102793,Ursol's Vortex,0,0,30,0,1,60,
@@ -105,7 +105,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 99,Incapacitating Roar,0,0,0,0,1,30,
 385786,Matted Fur,0,0,0,1,1,0,
 124974,Nature's Vigil,0,0,0,0,1,90,
-5176,Wrath,1253,0,40,0,0,0,MANA:0;MANA:0;MANA:0;MANA:500;MANA:0;
+5176,Wrath,1226,0,40,0,0,0,MANA:0;MANA:0;MANA:0;MANA:500;MANA:0;
 391978,Veinripper,0,0,0,1,1,0,
 391078,Raging Fury,0,0,0,1,1,0,
 390772,Pouncing Strikes,0,0,0,1,1,0,
@@ -116,7 +116,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 1850,Dash,0,0,0,0,0,120,
 276029,Flight Form,0,0,0,1,0,0,
 22568,Ferocious Bite,0,0,0,0,0,0,ENERGY:25;COMBO_POINTS:5;
-8936,Regrowth,1253,0,40,0,0,0,MANA:0;MANA:0;MANA:25000;MANA:0;MANA:0;
+8936,Regrowth,1226,0,40,0,0,0,MANA:0;MANA:0;MANA:25000;MANA:0;MANA:0;
 417712,Rising Light, Falling Night,0,0,0,1,1,0,
 202031,Sabertooth,0,0,0,1,1,0,
 393771,Relentless Predator,0,0,0,1,1,0,

@@ -23,7 +23,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 196718,Darkness,0,0,0,0,1,300,
 388118,Know Your Enemy,0,0,0,1,1,0,
 217832,Imprison,0,0,20,0,1,45,
-370965,The Hunt,864,0,50,0,1,90,
+370965,The Hunt,861,0,50,0,1,90,
 235893,First of the Illidari,0,0,0,1,1,0,
 162794,Chaos Strike,0,0,0,0,0,0,FURY:40;
 198793,Vengeful Retreat,0,0,0,0,1,25,
@@ -95,7 +95,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 389819,Relentless Pursuit,0,0,0,1,1,0,
 205411,Desperate Instincts,0,0,0,1,1,0,
 206476,Momentum,0,0,0,1,1,0,
-185123,Throw Glaive,0,0,30,0,0,7.783,FURY:0;
+185123,Throw Glaive,0,0,30,0,0,7.75,FURY:0;
 389693,Inner Demon,0,0,0,1,1,0,
 388112,Chaotic Transformation,0,0,0,1,1,0,
 388106,Soulrend,0,0,0,1,1,0,

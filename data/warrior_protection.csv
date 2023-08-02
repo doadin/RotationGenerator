@@ -109,7 +109,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 386011,Shield Specialization,0,0,0,1,1,0,
 202095,Indomitable,0,0,0,1,1,0,
 316733,War Machine,0,0,0,1,1,0,
-2565,Shield Block,0,0,0,0,0,13.546,RAGE:30;
+2565,Shield Block,0,0,0,0,0,13.603,RAGE:30;
 384361,Bloodsurge,0,0,0,1,1,0,
 6343,Thunder Clap,0,0,0,0,1,6,
 163201,Execute,0,0,0,0,0,6,RAGE:40;

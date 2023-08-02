@@ -109,7 +109,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 152278,Anger Management,0,0,0,1,1,0,
 202316,Fervor of Battle,0,0,0,1,1,0,
 6544,Heroic Leap,0,8,40,0,1,45,
-2565,Shield Block,0,0,0,0,0,13.681,RAGE:30;
+2565,Shield Block,0,0,0,0,0,13.739,RAGE:30;
 383154,Bloodletting,0,0,0,1,1,0,
 390713,Dance of Death,0,0,0,1,1,0,
 384361,Bloodsurge,0,0,0,1,1,0,

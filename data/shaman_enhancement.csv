@@ -1,15 +1,15 @@
 id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 265046,Static Charge,0,0,0,1,1,60,
-117014,Elemental Blast,1687,0,40,0,1,12,MANA:1375;MAELSTROM:0;
+117014,Elemental Blast,1686,0,40,0,1,12,MANA:1375;MAELSTROM:0;
 384363,Converging Storms,0,0,0,1,1,0,
 378077,Spiritwalker's Aegis,0,0,0,1,1,0,
 318038,Flametongue Weapon,0,0,0,0,0,0,
 375982,Primordial Wave,0,0,40,0,1,45,MANA:1500;
 381666,Focused Insight,0,0,0,1,1,0,
-1064,Chain Heal,2109,0,40,0,1,0,MANA:0;MANA:0;MANA:37500;MANA:0;
+1064,Chain Heal,1054,0,40,0,1,0,MANA:0;MANA:0;MANA:37500;MANA:0;
 378079,Enfeeblement,0,0,0,1,1,0,
 378270,Deeply Rooted Elements,0,0,0,1,1,0,
-8004,Healing Surge,1266,0,40,0,0,0,MANA:0;MANA:0;MANA:25000;MANA:0;
+8004,Healing Surge,1264,0,40,0,0,0,MANA:0;MANA:0;MANA:0;MANA:20000;
 378779,Thundershock,0,0,0,1,1,0,
 378081,Nature's Swiftness,0,0,0,0,1,60,
 187874,Crash Lightning,0,0,0,0,1,12,MANA:500;
@@ -45,11 +45,11 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 383011,Call of the Elements,0,0,0,1,1,0,
 17364,Stormstrike,0,0,0,0,1,7.5,MANA:1000;
 381678,Go with the Flow,0,0,0,1,1,0,
-188196,Lightning Bolt,1687,0,40,0,0,0,MANA:500;
+188196,Lightning Bolt,1686,0,40,0,0,0,MANA:500;
 383012,Creation Core,0,0,0,1,1,0,
 381647,Planes Traveler,0,0,0,1,1,0,
 334308,Crashing Storms,0,0,0,1,1,0,
-51514,Hex,1434,0,30,0,1,30,
+51514,Hex,1433,0,30,0,1,30,
 383013,Poison Cleansing Totem,0,0,40,0,1,45,MANA:1250;
 393905,Refreshing Waters,0,0,0,1,1,0,
 382033,Surging Shields,0,0,0,1,1,0,
@@ -57,12 +57,12 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 384411,Static Accumulation,0,0,0,1,1,0,
 381819,Guardian's Cudgel,0,0,0,1,1,0,
 2825,Bloodlust,0,0,0,0,0,300,MANA:1000;
-2008,Ancestral Spirit,8437,0,40,0,0,0,MANA:2000;
+2008,Ancestral Spirit,8429,0,40,0,0,0,MANA:2000;
 382888,Flurry,0,0,0,1,1,0,
 378094,Swirling Currents,0,0,0,1,1,0,
 383017,Stoneskin Totem,0,0,0,0,1,30,MANA:750;
 383303,Improved Maelstrom Weapon,0,0,0,1,1,0,
-6196,Far Sight,1687,0,50000,0,0,0,
+6196,Far Sight,1686,0,50000,0,0,0,
 8512,Windfury Totem,0,0,0,0,1,0,MANA:750;
 305483,Lightning Lasso,0,0,20,0,1,45,
 188389,Flame Shock,0,0,40,0,0,6,MANA:750;
@@ -92,14 +92,14 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 2484,Earthbind Totem,0,0,40,0,0,30,MANA:1250;
 196884,Feral Lunge,0,8,25,0,1,30,
 334033,Molten Assault,0,0,40,1,1,0,
-51505,Lava Burst,1687,0,40,0,1,8,MANA:1250;
-188443,Chain Lightning,1687,0,40,0,1,0,MANA:500;
+51505,Lava Burst,1686,0,40,0,1,8,MANA:1250;
+188443,Chain Lightning,1686,0,40,0,1,0,MANA:500;
 381650,Elemental Warding,0,0,0,1,1,0,
 260878,Spirit Wolf,0,0,0,1,1,0,
 384352,Doom Winds,0,0,0,0,1,90,
 204268,Voodoo Mastery,0,0,0,1,1,0,
 2645,Ghost Wolf,0,0,0,0,0,0,
-556,Astral Recall,8437,0,0,0,0,600,
+556,Astral Recall,8429,0,0,0,0,600,
 384359,Swirling Maelstrom,0,0,0,1,1,0,
 384444,Thorim's Invocation,0,0,0,1,1,0,
 187880,Maelstrom Weapon,0,0,0,1,1,0,

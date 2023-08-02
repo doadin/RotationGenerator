@@ -4,28 +4,28 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 199921,Trailblazer,0,0,0,1,1,0,
 378014,Poison Injection,0,0,0,1,1,0,
 162488,Steel Trap,0,0,40,0,1,30,
-34026,Kill Command,0,0,50,0,1,6.947,FOCUS:30;
-212431,Explosive Shot,0,0,47.815433502197,0,1,30,FOCUS:20;
+34026,Kill Command,0,0,50,0,1,6.977,FOCUS:30;
+212431,Explosive Shot,0,0,47.714042663574,0,1,30,FOCUS:20;
 187698,Tar Trap,0,0,40,0,1,30,
 201430,Stampede,0,0,40,0,1,120,
 378905,Windrunner's Guidance,0,0,0,1,1,0,
 378907,Sharpshooter,0,0,0,1,1,0,
-375891,Death Chakram,0,0,47.815433502197,0,1,45,
+375891,Death Chakram,0,0,47.714042663574,0,1,45,
 264735,Survival of the Fittest,0,0,50000,0,1,180,
 386878,Unerring Vision,0,0,0,1,1,0,
-147362,Counter Shot,0,0,47.815433502197,0,1,24,
-1543,Flare,0,0,47.815433502197,0,0,20,
+147362,Counter Shot,0,0,47.714042663574,0,1,24,
+1543,Flare,0,0,47.714042663574,0,0,20,
 288613,Trueshot,0,0,0,0,1,120,
-56641,Steady Shot,1621,0,47.815433502197,0,0,0,
-342049,Chimaera Shot,0,0,47.815433502197,0,1,0,FOCUS:20;
+56641,Steady Shot,1628,0,47.714042663574,0,0,0,
+342049,Chimaera Shot,0,0,47.714042663574,0,1,0,FOCUS:20;
 389866,Windrunner's Barrage,0,0,0,1,1,0,
 389865,Readiness,0,0,0,1,1,0,
 186257,Aspect of the Cheetah,0,0,0,0,0,180,
 405804,Bombardment,0,0,0,1,1,0,
 388056,Sentinel's Perception,0,0,0,1,1,0,
-257044,Rapid Fire,0,0,47.815433502197,0,1,20,
-271788,Serpent Sting,0,0,47.815433502197,0,1,0,FOCUS:10;
-53351,Kill Shot,0,0,47.815433502197,0,1,7,FOCUS:10;
+257044,Rapid Fire,0,0,47.714042663574,0,1,20,
+271788,Serpent Sting,0,0,47.714042663574,0,1,0,FOCUS:10;
+53351,Kill Shot,0,0,47.714042663574,0,1,7,FOCUS:10;
 388057,Sentinel's Protection,0,0,0,1,1,0,
 321287,Target Practice,0,0,0,1,1,0,
 389449,Eagletalon's True Focus,0,0,0,1,1,0,
@@ -34,34 +34,34 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 343248,Improved Kill Shot,0,0,0,1,1,0,
 270581,Natural Mending,0,0,0,1,1,0,
 125050,Fetch,93,0,50,0,0,0,
-213691,Scatter Shot,0,0,23.907716751099,0,1,30,
+213691,Scatter Shot,0,0,23.857021331787,0,1,30,
 195645,Wing Clip,0,0,0,0,0,0,FOCUS:20;
-392060,Wailing Arrow,1852,0,47.815433502197,0,1,60,FOCUS:15;
+392060,Wailing Arrow,1860,0,47.714042663574,0,1,60,FOCUS:15;
 199483,Camouflage,0,0,50000,0,1,60,
 273887,Killer Instinct,0,0,0,1,1,0,
 384790,Razor Fragments,0,0,0,1,1,0,
 193468,Mastery: Sniper Training,0,0,0,1,0,0,
 391559,Surging Shots,0,0,0,1,1,0,
 406425,Legacy of the Windrunners,0,0,0,1,1,0,
-185358,Arcane Shot,0,0,47.815433502197,0,0,0,FOCUS:20;
+185358,Arcane Shot,0,0,47.714042663574,0,0,0,FOCUS:20;
 186387,Bursting Shot,0,0,0,0,1,30,FOCUS:10;
 204089,Bullseye,0,0,0,1,1,0,
 236776,High Explosive Trap,0,0,40,0,1,40,
 378771,Quick Load,0,0,0,1,1,0,
-19801,Tranquilizing Shot,0,0,47.815433502197,0,1,10,
+19801,Tranquilizing Shot,0,0,47.714042663574,0,1,10,
 194595,Lock and Load,0,0,0,1,1,0,
-120360,Barrage,0,0,47.815433502197,0,1,20,FOCUS:30;
+120360,Barrage,0,0,47.714042663574,0,1,20,FOCUS:30;
 321293,Crack Shot,0,0,0,1,1,0,
 393344,Entrapment,0,0,0,1,1,0,
 378888,Serpentstalker's Trickery,0,0,0,1,1,0,
 109304,Exhilaration,0,0,45,0,0,120,
-19434,Aimed Shot,2315,0,47.815433502197,0,1,11.115,FOCUS:35;
-321297,Eyes of the Beast,1853,0,50000,0,0,0,
+19434,Aimed Shot,2325,0,47.714042663574,0,1,11.163,FOCUS:35;
+321297,Eyes of the Beast,1861,0,50000,0,0,0,
 5384,Feign Death,0,0,0,0,0,30,
-109248,Binding Shot,0,0,35.861576080322,0,1,45,
-257620,Multi-Shot,0,0,47.815433502197,0,1,0,FOCUS:20;
+109248,Binding Shot,0,0,35.785530090332,0,1,45,
+257620,Multi-Shot,0,0,47.714042663574,0,1,0,FOCUS:20;
 269737,Alpha Predator,0,0,0,1,1,0,
-5116,Concussive Shot,0,0,47.815433502197,0,1,5,
+5116,Concussive Shot,0,0,47.714042663574,0,1,5,
 193533,Steady Focus,0,0,0,1,1,0,
 19577,Intimidation,0,0,100,0,1,60,
 6197,Eagle Eye,0,0,50000,0,0,0,
@@ -88,7 +88,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 378769,Deathblow,0,0,0,1,1,0,
 390231,Arctic Bola,0,0,0,1,1,0,
 389882,Serrated Shots,0,0,0,1,1,0,
-260243,Volley,0,0,47.815433502197,0,1,45,
+260243,Volley,0,0,47.714042663574,0,1,45,
 53480,Roar of Sacrifice,0,0,40,0,1,60,
 343242,Wilderness Medicine,0,0,0,1,1,0,
 260240,Precise Shots,0,0,0,1,1,0,
@@ -102,7 +102,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 389019,Bulletstorm,0,0,0,1,1,0,
 257284,Hunter's Mark,0,0,60,0,0,0,
 781,Disengage,0,0,50000,0,0,20,
-1513,Scare Beast,1389,0,30,0,1,0,FOCUS:25;
+1513,Scare Beast,1395,0,30,0,1,0,FOCUS:25;
 266921,Born To Be Wild,0,0,0,1,1,0,
 378910,Heavy Ammo,0,0,0,1,1,0,
 388045,Sentinel Owl,0,0,40,0,1,0,

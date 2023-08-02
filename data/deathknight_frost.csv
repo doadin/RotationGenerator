@@ -1,5 +1,5 @@
 id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
-43265,Death and Decay,0,0,30,0,0,30,RUNES:1;RUNIC_POWER:-10;
+43265,Death and Decay,0,0,30,0,0,30,RUNES:1;RUNIC_POWER:10;
 279302,Frostwyrm's Fury,0,0,0,0,1,180,
 391571,Gloom Ward,0,0,0,1,1,0,
 49143,Frost Strike,0,0,0,0,1,0,RUNIC_POWER:30;
@@ -7,12 +7,12 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 59057,Rime,0,0,0,1,1,0,
 377190,Enduring Strength,0,0,0,1,1,0,
 374111,Might of Thassarian,0,0,0,1,1,0,
-111673,Control Undead,1249,0,30,0,1,0,RUNES:1;RUNIC_POWER:-10;
+111673,Control Undead,1249,0,30,0,1,0,RUNES:1;RUNIC_POWER:10;
 47528,Mind Freeze,0,0,15,0,1,15,RUNIC_POWER:0;
 376938,Everfrost,0,0,0,1,1,0,
 377351,Piercing Chill,0,0,0,1,1,0,
 49576,Death Grip,0,0,30,0,0,25,
-50977,Death Gate,3330,0,0,0,0,60,RUNES:1;RUNIC_POWER:-10;
+50977,Death Gate,3330,0,0,0,0,60,RUNES:1;RUNIC_POWER:10;
 373923,Merciless Strikes,0,0,0,1,1,0,
 48707,Anti-Magic Shell,0,0,0,0,1,60,
 47568,Empower Rune Weapon,0,0,0,0,1,120,
@@ -28,7 +28,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 194878,Icy Talons,0,0,0,1,1,0,
 392566,Enfeeble,0,0,0,1,1,0,
 327574,Sacrificial Pact,0,0,0,0,1,120,RUNIC_POWER:20;
-49184,Howling Blast,0,0,30,0,1,0,RUNES:1;RUNIC_POWER:-10;
+49184,Howling Blast,0,0,30,0,1,0,RUNES:1;RUNIC_POWER:10;
 377073,Frigid Executioner,0,0,0,1,1,0,
 373930,Proliferating Chill,0,0,0,1,1,0,
 389679,Clenching Grasp,0,0,0,1,1,0,
@@ -51,7 +51,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 376905,Unleashed Frenzy,0,0,0,1,1,0,
 77514,Mastery: Frozen Heart,0,0,0,1,0,0,
 51128,Killing Machine,0,0,0,1,1,0,
-196770,Remorseless Winter,0,0,0,0,0,20,RUNES:1;RUNIC_POWER:-10;
+196770,Remorseless Winter,0,0,0,0,0,20,RUNES:1;RUNIC_POWER:10;
 48792,Icebound Fortitude,0,0,0,0,1,180,
 51986,On a Pale Horse,0,0,0,1,0,0,
 53428,Runeforging,0,0,0,0,0,0,
@@ -66,7 +66,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 377076,Rage of the Frozen Champion,0,0,0,1,1,0,
 377083,Cold-Blooded Rage,0,0,0,1,1,0,
 377098,Bonegrinder,0,0,0,1,1,0,
-305392,Chill Streak,0,0,40,0,1,45,RUNES:1;RUNIC_POWER:-10;
+305392,Chill Streak,0,0,40,0,1,45,RUNES:1;RUNIC_POWER:10;
 374574,Rune Mastery,0,0,0,1,1,0,
 56222,Dark Command,0,0,30,0,0,8,
 81333,Might of the Frozen Wastes,0,0,0,1,0,0,
@@ -85,7 +85,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 49039,Lichborne,0,0,0,0,0,120,
 377056,Biting Cold,0,0,0,1,1,0,
 206967,Will of the Necropolis,0,0,0,1,1,0,
-45524,Chains of Ice,0,0,30,0,1,0,RUNES:1;RUNIC_POWER:-10;
+45524,Chains of Ice,0,0,30,0,1,0,RUNES:1;RUNIC_POWER:10;
 207126,Icecap,0,0,0,1,1,0,
 207142,Avalanche,0,0,0,1,1,0,
 377376,Enduring Chill,0,0,0,1,1,0,
@@ -96,7 +96,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 253593,Inexorable Assault,0,0,0,1,1,0,
 391566,Insidious Chill,0,0,0,1,1,0,
 374265,Unholy Ground,0,0,0,1,1,0,
-343294,Soul Reaper,0,0,0,0,1,6,RUNES:1;RUNIC_POWER:-10;
+343294,Soul Reaper,0,0,0,0,1,6,RUNES:1;RUNIC_POWER:10;
 281238,Obliteration,0,0,0,1,1,0,
 49998,Death Strike,0,0,0,0,1,0,RUNIC_POWER:45;
 152279,Breath of Sindragosa,0,0,0,0,1,120,RUNIC_POWER:0;

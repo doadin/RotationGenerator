@@ -5,7 +5,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 199921,Trailblazer,0,0,0,1,1,0,
 378014,Poison Injection,0,0,0,1,1,0,
 385539,Rejuvenating Wind,0,0,0,1,1,0,
-34026,Kill Command,0,0,50,0,1,6.947,FOCUS:30;
+34026,Kill Command,0,0,50,0,1,6.977,FOCUS:30;
 321468,Binding Shackles,0,0,0,1,1,0,
 187698,Tar Trap,0,0,40,0,1,30,
 201430,Stampede,0,0,40,0,1,120,
@@ -27,17 +27,17 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 271788,Serpent Sting,0,0,40,0,1,0,FOCUS:10;
 53351,Kill Shot,0,0,40,0,1,10,FOCUS:10;
 388057,Sentinel's Protection,0,0,0,1,1,0,
-1513,Scare Beast,1389,0,30,0,1,0,FOCUS:25;
+1513,Scare Beast,1395,0,30,0,1,0,FOCUS:25;
 199530,Stomp,0,0,0,1,1,0,
 125050,Fetch,93,0,50,0,0,0,
 212431,Explosive Shot,0,0,40,0,1,30,FOCUS:20;
 393933,War Orders,0,0,0,1,1,0,
-392060,Wailing Arrow,1852,0,40,0,1,60,FOCUS:15;
+392060,Wailing Arrow,1860,0,40,0,1,60,FOCUS:15;
 199483,Camouflage,0,0,50000,0,1,60,
 273887,Killer Instinct,0,0,0,1,1,0,
 257284,Hunter's Mark,0,0,60,0,0,0,
 187650,Freezing Trap,0,0,40,0,0,30,
-217200,Barbed Shot,0,0,40,0,1,11.115,
+217200,Barbed Shot,0,0,40,0,1,11.163,
 266921,Born To Be Wild,0,0,0,1,1,0,
 162488,Steel Trap,0,0,40,0,1,30,
 378205,Sharp Barbs,0,0,0,1,1,0,
@@ -63,7 +63,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 389654,Master Handler,0,0,0,1,1,0,
 109304,Exhilaration,0,0,45,0,0,120,
 185358,Arcane Shot,0,0,40,0,0,0,FOCUS:40;
-321297,Eyes of the Beast,1853,0,50000,0,0,0,
+321297,Eyes of the Beast,1861,0,50000,0,0,0,
 269737,Alpha Predator,0,0,0,1,1,0,
 34477,Misdirection,0,0,100,0,1,30,
 5384,Feign Death,0,0,0,0,0,30,

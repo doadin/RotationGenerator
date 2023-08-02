@@ -35,7 +35,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 107428,Rising Sun Kick,0,0,0,0,1,10,CHI:2;MANA:0;
 220357,Mark of the Crane,0,0,0,1,1,0,
 125883,Zen Flight,0,0,0,0,0,0,
-123986,Chi Burst,906,0,40,0,1,30,
+123986,Chi Burst,926,0,40,0,1,30,
 122470,Touch of Karma,0,0,20,0,1,90,
 388661,Invoker's Delight,0,0,0,1,1,0,
 115636,Mastery: Combo Strikes,0,0,0,1,0,0,
@@ -59,7 +59,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 392985,Thunderfist,0,0,0,1,1,0,
 388846,Widening Whirl,0,0,0,1,1,0,
 414131,Yu'lon's Grace,0,0,0,1,1,0,
-198898,Song of Chi-Ji,1630,0,40,0,1,30,
+198898,Song of Chi-Ji,1668,0,40,0,1,30,
 392986,Xuen's Bond,0,0,0,1,1,0,
 394923,Fatal Flying Guillotine,0,0,0,1,1,0,
 414132,Dance of the Wind,0,0,0,1,1,0,
@@ -68,11 +68,11 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 388193,Faeline Stomp,0,0,30,0,1,30,MANA:0;
 392989,Last Emperor's Capacitor,0,0,0,1,1,0,
 8647,Mystic Touch,0,0,0,1,0,0,
-116670,Vivify,1358,0,40,0,0,0,MANA:0;ENERGY:0;ENERGY:30;
+116670,Vivify,1390,0,40,0,0,0,MANA:0;ENERGY:0;ENERGY:30;
 391370,Drinking Horn Cover,0,0,0,1,1,0,
 115098,Chi Wave,0,0,40,0,1,15,
 119996,Transcendence: Transfer,0,0,40,0,0,45,
-115178,Resuscitate,9055,0,40,0,0,0,MANA:0;
+115178,Resuscitate,9264,0,40,0,0,0,MANA:0;
 115313,Summon Jade Serpent Statue,0,0,40,0,1,10,
 389574,Close to Heart,0,0,0,1,1,0,
 392958,Glory of the Dawn,0,0,0,1,1,0,
@@ -110,7 +110,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 119381,Leg Sweep,0,0,0,0,0,60,
 101546,Spinning Crane Kick,0,0,0,0,0,0,CHI:2;MANA:0;ENERGY:0;
 394123,Fatal Touch,0,0,0,1,1,0,
-126892,Zen Pilgrimage,9055,0,0,0,0,60,
+126892,Zen Pilgrimage,9264,0,0,0,0,60,
 
 356773,Fae Exposure Damage,0,0,0,0,0,0,
 393050,Skyreach Exhaustion,0,0,0,0,0,0,

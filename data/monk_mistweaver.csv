@@ -4,16 +4,16 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 264348,Tiger Tail Sweep,0,0,0,1,1,0,
 388491,Secret Infusion,0,0,0,1,1,0,
 388047,Clouded Focus,0,0,0,1,1,0,
-124682,Enveloping Mist,1824,0,40,0,1,0,MANA:6304;
+124682,Enveloping Mist,1863,0,40,0,1,0,MANA:8697;
 115546,Provoke,0,0,30,0,0,8,
 115173,Celerity,0,0,0,1,1,0,
 116705,Spear Hand Strike,0,0,0,0,1,15,
 388874,Improved Detox,0,0,0,1,1,0,
 388779,Awakened Faeline,0,0,0,1,1,0,
 388811,Grace of the Crane,0,0,0,1,1,0,
-212051,Reawaken,9119,0,100,0,0,0,MANA:1051;
+212051,Reawaken,9315,0,100,0,0,0,MANA:1450;
 399226,Burst of Life,0,0,0,1,1,0,
-322101,Expel Harm,0,0,100,0,0,15,ENERGY:0;MANA:3940;ENERGY:0;
+322101,Expel Harm,0,0,100,0,0,15,ENERGY:0;MANA:5436;ENERGY:0;
 116841,Tiger's Lust,0,0,20,0,1,30,
 387765,Nourishing Chi,0,0,0,1,1,0,
 389575,Generous Pour,0,0,0,1,1,0,
@@ -22,26 +22,26 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 388020,Resplendent Mist,0,0,0,1,1,0,
 388814,Ironshell Brew,0,0,0,1,1,0,
 119381,Leg Sweep,0,0,0,0,0,60,
-116849,Life Cocoon,0,0,40,0,1,120,MANA:3152;
-116095,Disable,0,0,0,0,1,0,ENERGY:0;MANA:919;ENERGY:0;
+116849,Life Cocoon,0,0,40,0,1,120,MANA:4349;
+116095,Disable,0,0,0,0,1,0,ENERGY:0;MANA:1268;ENERGY:0;
 197908,Mana Tea,0,0,0,0,1,90,
 388593,Peaceful Mending,0,0,0,1,1,0,
 388212,Gift of the Celestials,0,0,0,1,1,0,
 322109,Touch of Death,0,0,0,0,0,180,
 389578,Resonant Fists,0,0,0,1,1,0,
 100784,Blackout Kick,0,0,0,0,0,3,CHI:0;
-101546,Spinning Crane Kick,0,0,0,0,0,0,CHI:0;MANA:1313;ENERGY:0;
+101546,Spinning Crane Kick,0,0,0,0,0,0,CHI:0;MANA:1812;ENERGY:0;
 388023,Ancient Teachings,0,0,0,1,1,0,
 389579,Save Them All,0,0,0,1,1,0,
 400089,Shaohao's Lessons,0,0,0,1,1,0,
-115310,Revival,0,0,0,0,1,180,MANA:5744;
+115310,Revival,0,0,0,0,1,180,MANA:7925;
 115175,Soothing Mist,0,0,40,0,1,0,MANA:0;ENERGY:0;ENERGY:0;
 388564,Accumulating Mist,0,0,0,1,1,0,
-124081,Zen Pulse,0,0,40,0,1,30,MANA:1313;
+124081,Zen Pulse,0,0,40,0,1,30,MANA:1812;
 274963,Upwelling,0,0,100,1,1,0,
 404408,Legacy of Wisdom,0,0,0,1,1,0,
 125883,Zen Flight,0,0,0,0,0,0,
-123986,Chi Burst,912,0,40,0,1,30,
+123986,Chi Burst,932,0,40,0,1,30,
 389574,Close to Heart,0,0,0,1,1,0,
 388661,Invoker's Delight,0,0,0,1,1,0,
 392910,Profound Rebuttal,0,0,0,1,1,0,
@@ -56,7 +56,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 388031,Jade Bond,0,0,0,1,1,0,
 274586,Invigorating Mists,0,0,0,1,1,0,
 388664,Calming Presence,0,0,0,1,1,0,
-399491,Sheilun's Gift,1824,0,40,0,1,0,MANA:3283;
+399491,Sheilun's Gift,1863,0,40,0,1,0,MANA:4530;
 343655,Celestial Harmony,0,0,0,1,1,0,
 101643,Transcendence,0,0,0,0,1,10,
 117907,Mastery: Gust of Mists,0,0,0,1,0,0,
@@ -70,22 +70,22 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 115008,Chi Torpedo,0,0,0,0,1,15,
 388517,Tea of Plenty,0,0,0,1,1,0,
 388477,Unison,0,0,0,1,1,0,
-198898,Song of Chi-Ji,1641,0,40,0,1,30,
+198898,Song of Chi-Ji,1677,0,40,0,1,30,
 388701,Dancing Mists,0,0,100,1,1,0,
 344359,Improved Paralysis,0,0,0,1,1,0,
 115098,Chi Wave,0,0,40,0,1,15,
 274909,Rising Mist,0,0,0,1,1,0,
 116844,Ring of Peace,0,0,40,0,1,45,
-388193,Faeline Stomp,0,0,30,0,1,20,MANA:5253;
-191837,Essence Font,0,0,0,0,1,12,MANA:9455;
+388193,Faeline Stomp,0,0,30,0,1,20,MANA:7248;
+191837,Essence Font,0,0,0,0,1,12,MANA:13046;
 388511,Overflowing Mists,0,0,0,1,1,0,
-116670,Vivify,0,0,40,0,0,0,MANA:4465;ENERGY:0;ENERGY:0;
+116670,Vivify,0,0,40,0,0,0,MANA:6160;ENERGY:0;ENERGY:0;
 197915,Lifecycles,0,0,0,1,1,0,
-107428,Rising Sun Kick,0,0,0,0,1,10,CHI:0;MANA:3283;
+107428,Rising Sun Kick,0,0,0,0,1,10,CHI:0;MANA:4530;
 119996,Transcendence: Transfer,0,0,40,0,0,45,
-115178,Resuscitate,9119,0,40,0,0,0,MANA:1051;
+115178,Resuscitate,9315,0,40,0,0,0,MANA:1450;
 115313,Summon Jade Serpent Statue,0,0,40,0,1,10,
-196725,Refreshing Jade Wind,0,0,0,0,1,45,MANA:6566;
+196725,Refreshing Jade Wind,0,0,0,0,1,45,MANA:9060;
 414131,Yu'lon's Grace,0,0,0,1,1,0,
 197900,Mist Wrap,0,0,0,1,1,0,
 388812,Vivacious Vivification,0,0,0,1,1,0,
@@ -110,15 +110,15 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 394123,Fatal Touch,0,0,0,1,1,0,
 392900,Vigorous Expulsion,0,0,0,1,1,0,
 328670,Hasty Provocation,0,0,0,1,1,0,
-126892,Zen Pilgrimage,9119,0,0,0,0,60,
+126892,Zen Pilgrimage,9315,0,0,0,0,60,
 388551,Uplifted Spirits,0,0,0,1,1,0,
 116680,Thunder Focus Tea,0,0,0,0,1,30,
-388615,Restoral,0,0,0,0,1,180,MANA:5744;
+388615,Restoral,0,0,0,0,1,180,MANA:7925;
 388681,Elusive Mists,0,0,0,1,1,0,
 389577,Bounce Back,0,0,0,1,1,0,
 115315,Summon Black Ox Statue,0,0,40,0,1,10,
-115450,Detox,0,0,40,0,0,8,MANA:1707;
-115151,Renewing Mist,0,0,40,0,1,9,MANA:2364;
+115450,Detox,0,0,40,0,0,8,MANA:2355;
+115151,Renewing Mist,0,0,40,0,1,9,MANA:3261;
 196607,Eye of the Tiger,0,0,0,1,1,0,
 387991,Tear of Morning,0,0,0,1,1,0,
 388847,Rapid Diffusion,0,0,40,1,1,0,

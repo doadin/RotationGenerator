@@ -5,7 +5,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 196730,Special Delivery,0,0,0,1,1,0,
 383697,Sal'salabim's Strength,0,0,0,1,1,0,
 344359,Improved Paralysis,0,0,0,1,1,0,
-121253,Keg Smash,0,0,15,0,1,7.244,ENERGY:40;
+121253,Keg Smash,0,0,15,0,1,7.411,ENERGY:40;
 322960,Fortifying Brew: Determination,0,0,0,1,1,0,
 383698,Scalding Brew,0,0,0,1,1,0,
 116705,Spear Hand Strike,0,0,0,0,1,15,
@@ -37,7 +37,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 115069,Stagger,0,0,0,1,0,0,
 383707,Stormstout's Last Keg,0,0,0,1,1,0,
 125883,Zen Flight,0,0,0,0,0,0,
-123986,Chi Burst,906,0,40,0,1,30,
+123986,Chi Burst,926,0,40,0,1,30,
 124502,Gift of the Ox,0,0,0,1,1,0,
 117906,Mastery: Elusive Brawler,0,0,0,1,0,0,
 383994,Dragonfire Brew,0,0,0,1,1,0,
@@ -58,7 +58,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 386276,Bonedust Brew,0,0,40,0,1,60,
 387046,Elusive Footwork,0,0,0,1,1,0,
 196607,Eye of the Tiger,0,0,0,1,1,0,
-119582,Purifying Brew,0,0,0,0,1,14.488,
+119582,Purifying Brew,0,0,0,0,1,14.823,
 115399,Black Ox Brew,0,0,0,0,1,120,
 116844,Ring of Peace,0,0,40,0,1,45,
 322510,Improved Celestial Brew,0,0,0,1,1,0,
@@ -66,7 +66,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 383714,Training of Niuzao,0,0,0,1,1,0,
 216519,Celestial Fortune,0,0,0,1,0,0,
 414131,Yu'lon's Grace,0,0,0,1,1,0,
-198898,Song of Chi-Ji,1630,0,40,0,1,30,
+198898,Song of Chi-Ji,1668,0,40,0,1,30,
 322120,Shuffle,0,0,0,1,1,0,
 116847,Rushing Jade Wind,0,0,0,0,1,6,CHI:0;
 414132,Dance of the Wind,0,0,0,1,1,0,
@@ -75,11 +75,11 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 343743,Improved Purifying Brew,0,0,0,1,1,0,
 322740,Improved Invoke Niuzao the Black Ox,0,0,0,1,1,0,
 8647,Mystic Touch,0,0,0,1,0,0,
-116670,Vivify,1358,0,40,0,0,0,MANA:0;ENERGY:30;ENERGY:0;
+116670,Vivify,1390,0,40,0,0,0,MANA:0;ENERGY:30;ENERGY:0;
 388809,Fast Feet,0,0,0,1,1,0,
 389574,Close to Heart,0,0,0,1,1,0,
 119996,Transcendence: Transfer,0,0,40,0,0,45,
-115178,Resuscitate,9055,0,40,0,0,0,MANA:0;
+115178,Resuscitate,9264,0,40,0,0,0,MANA:0;
 115313,Summon Jade Serpent Statue,0,0,40,0,1,10,
 392910,Profound Rebuttal,0,0,0,1,1,0,
 115098,Chi Wave,0,0,40,0,1,15,
@@ -110,7 +110,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 205523,Blackout Kick,0,0,0,0,0,4,
 264348,Tiger Tail Sweep,0,0,0,1,1,0,
 397251,Call to Arms,0,0,0,1,1,0,
-126892,Zen Pilgrimage,9055,0,0,0,0,60,
+126892,Zen Pilgrimage,9264,0,0,0,0,60,
 107428,Rising Sun Kick,0,0,0,0,1,10,CHI:0;MANA:0;
 132578,Invoke Niuzao the Black Ox,0,0,40,0,1,180,
 387219,Walk with the Ox,0,0,100,1,1,0,

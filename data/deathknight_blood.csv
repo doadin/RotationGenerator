@@ -1,11 +1,11 @@
 id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
-43265,Death and Decay,0,0,30,0,0,15,RUNES:1;RUNIC_POWER:-10;
+43265,Death and Decay,0,0,30,0,0,15,RUNES:1;RUNIC_POWER:10;
 391571,Gloom Ward,0,0,0,1,1,0,
 206970,Tightening Grasp,0,0,0,1,1,0,
 391477,Coagulopathy,0,0,0,1,1,0,
 49028,Dancing Rune Weapon,0,0,30,0,1,120,
 374111,Might of Thassarian,0,0,0,1,1,0,
-111673,Control Undead,1260,0,30,0,1,0,RUNES:1;RUNIC_POWER:-10;
+111673,Control Undead,1260,0,30,0,1,0,RUNES:1;RUNIC_POWER:10;
 374715,Improved Bone Shield,0,0,0,1,1,0,
 377668,Everlasting Bond,0,0,0,1,1,0,
 374049,Suppression,0,0,0,1,1,0,
@@ -42,7 +42,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 61999,Raise Ally,0,0,40,0,0,600,RUNIC_POWER:30;
 273953,Voracious,0,0,0,1,1,0,
 389682,Unholy Endurance,0,0,0,1,1,0,
-206930,Heart Strike,0,0,0,0,1,0,RUNES:1;RUNIC_POWER:-15;HEALTH:0;HEALTH:0;
+206930,Heart Strike,0,0,0,0,1,0,RUNES:1;RUNIC_POWER:15;HEALTH:0;HEALTH:0;
 383269,Abomination Limb,0,0,20,0,1,120,
 374030,Blood Scent,0,0,0,1,1,0,
 3714,Path of Frost,0,0,0,0,0,0,RUNES:1;
@@ -51,10 +51,10 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 48265,Death's Advance,0,0,0,0,0,45,
 49576,Death Grip,0,0,40,0,0,15,
 221536,Heartbreaker,0,0,0,1,1,0,
-50977,Death Gate,3360,0,0,0,0,60,RUNES:1;RUNIC_POWER:-10;
+50977,Death Gate,3360,0,0,0,0,60,RUNES:1;RUNIC_POWER:10;
 48792,Icebound Fortitude,0,0,0,0,1,180,
 47541,Death Coil,0,0,30,0,0,0,RUNIC_POWER:30;
-195292,Death's Caress,0,0,30,0,1,6,RUNES:1;RUNIC_POWER:-10;
+195292,Death's Caress,0,0,30,0,1,6,RUNES:1;RUNIC_POWER:10;
 195679,Bloodworms,0,0,0,1,1,0,
 55233,Vampiric Blood,0,0,0,0,1,90,
 391395,Iron Heart,0,0,0,1,1,0,
@@ -63,7 +63,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 212552,Wraith Walk,0,0,0,0,1,60,
 316916,Cleaving Strikes,0,0,0,1,1,0,
 50842,Blood Boil,0,0,0,0,1,6.299,
-195182,Marrowrend,0,0,0,0,1,0,RUNES:2;RUNIC_POWER:-20;
+195182,Marrowrend,0,0,0,0,1,0,RUNES:2;RUNIC_POWER:20;
 391517,Umbilicus Eternus,0,0,0,1,1,0,
 374737,Reinforced Bones,0,0,0,1,1,0,
 377655,Heartrend,0,0,0,1,1,0,
@@ -74,11 +74,11 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 273946,Hemostasis,0,0,0,1,1,0,
 219786,Ossuary,0,0,0,1,1,0,
 391458,Sanguine Ground,0,0,0,1,1,0,
-206931,Blooddrinker,0,0,30,0,1,30,RUNES:1;RUNIC_POWER:-10;
+206931,Blooddrinker,0,0,30,0,1,30,RUNES:1;RUNIC_POWER:10;
 221699,Blood Tap,0,0,0,0,1,60,
 317133,Improved Vampiric Blood,0,0,0,1,1,0,
 219809,Tombstone,0,0,0,0,1,60,
-194679,Rune Tap,0,0,0,0,1,25,RUNES:1;RUNIC_POWER:-10;
+194679,Rune Tap,0,0,0,0,1,25,RUNES:1;RUNIC_POWER:10;
 374261,Unholy Bond,0,0,0,1,1,0,
 108199,Gorefiend's Grasp,0,0,30,0,1,120,
 51052,Anti-Magic Zone,0,0,30,0,1,120,
@@ -87,14 +87,14 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 206967,Will of the Necropolis,0,0,0,1,1,0,
 207200,Permafrost,0,0,0,1,1,0,
 391546,March of Darkness,0,0,0,1,1,0,
-45524,Chains of Ice,0,0,30,0,1,0,RUNES:1;RUNIC_POWER:-10;
+45524,Chains of Ice,0,0,30,0,1,0,RUNES:1;RUNIC_POWER:10;
 114556,Purgatory,0,0,0,1,1,0,
 377629,Leeching Strike,0,0,0,1,1,0,
 274156,Consumption,0,0,0,0,1,30,
 374574,Rune Mastery,0,0,0,1,1,0,
 81136,Crimson Scourge,0,0,0,1,1,0,
 391566,Insidious Chill,0,0,0,1,1,0,
-343294,Soul Reaper,0,0,0,0,1,6,RUNES:1;RUNIC_POWER:-10;
+343294,Soul Reaper,0,0,0,0,1,6,RUNES:1;RUNIC_POWER:10;
 374265,Unholy Ground,0,0,0,1,1,0,
 356367,Death's Echo,0,0,0,1,1,0,
 46585,Raise Dead,0,0,30,0,1,120,

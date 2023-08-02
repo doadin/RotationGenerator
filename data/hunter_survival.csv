@@ -21,13 +21,13 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 186257,Aspect of the Cheetah,0,0,0,0,0,180,
 186289,Aspect of the Eagle,0,0,100,0,1,90,
 271788,Serpent Sting,0,0,40,0,1,0,FOCUS:10;
-259489,Kill Command,0,0,50,0,1,5.557,
+259489,Kill Command,0,0,50,0,1,5.581,
 388057,Sentinel's Protection,0,0,0,1,1,0,
-1513,Scare Beast,1389,0,30,0,1,0,FOCUS:25;
+1513,Scare Beast,1395,0,30,0,1,0,FOCUS:25;
 385739,Coordinated Kill,0,0,0,1,1,0,
-212436,Butchery,0,0,8,0,1,8.336,FOCUS:30;
+212436,Butchery,0,0,8,0,1,8.372,FOCUS:30;
 260331,Birds of Prey,0,0,0,1,1,0,
-56641,Steady Shot,1621,0,40,0,0,0,
+56641,Steady Shot,1628,0,40,0,0,0,
 385709,Intense Focus,0,0,0,1,1,0,
 263186,Flanker's Advantage,0,0,0,1,1,0,
 125050,Fetch,93,0,50,0,0,0,
@@ -50,7 +50,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 378951,Tactical Advantage,0,0,0,1,1,0,
 236776,High Explosive Trap,0,0,40,0,1,40,
 320976,Kill Shot,0,0,40,0,1,10,FOCUS:10;
-270335,Shrapnel Bomb,0,0,40,0,0,16.673,
+270335,Shrapnel Bomb,0,0,40,0,0,16.745,
 195645,Wing Clip,0,0,0,0,0,0,FOCUS:20;
 187707,Muzzle,0,0,0,0,1,15,
 360952,Coordinated Assault,0,0,40,0,1,120,
@@ -63,13 +63,13 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 6197,Eagle Eye,0,0,50000,0,0,0,
 109304,Exhilaration,0,0,45,0,0,120,
 378004,Keen Eyesight,0,0,0,1,1,0,
-321297,Eyes of the Beast,1853,0,50000,0,0,0,
+321297,Eyes of the Beast,1861,0,50000,0,0,0,
 385718,Ruthless Marauder,0,0,0,1,1,0,
 34477,Misdirection,0,0,100,0,1,30,
 209997,Play Dead,0,0,100,0,0,30,
 187708,Carve,0,0,0,0,1,6,FOCUS:35;
 260241,Hydra's Bite,0,0,0,1,1,0,
-259495,Wildfire Bomb,0,0,40,0,1,16.673,
+259495,Wildfire Bomb,0,0,40,0,1,16.745,
 265895,Terms of Engagement,0,0,0,1,1,0,
 384799,Hunter's Avoidance,0,0,0,1,1,0,
 5384,Feign Death,0,0,0,0,0,30,

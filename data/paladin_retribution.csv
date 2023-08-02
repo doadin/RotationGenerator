@@ -4,11 +4,11 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 403826,Blade of Vengeance,0,0,0,1,1,0,
 403509,Zealot's Fervor,0,0,0,1,1,0,
 385349,Touch of Light,0,0,0,1,1,0,
-20066,Repentance,1372,0,30,0,1,15,MANA:3000;
+20066,Repentance,1356,0,30,0,1,15,MANA:3000;
 383254,Improved Crusader Strike,0,0,0,1,0,0,
 402971,Jurisdiction,0,0,0,1,1,0,
 406940,Executioner's Will,0,0,0,1,1,0,
-407480,Templar Strike,0,0,0,0,0,5.649,MANA:1000;
+407480,Templar Strike,0,0,0,0,0,5.584,MANA:1000;
 405607,Judge, Jury and Executioner,0,0,0,1,1,0,
 377128,Golden Path,0,0,0,1,1,0,
 231895,Crusade,0,0,0,0,1,120,
@@ -41,7 +41,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 6940,Blessing of Sacrifice,0,0,40,0,1,120,MANA:3500;
 384914,Recompense,0,0,0,1,1,0,
 326734,Healing Hands,0,0,0,1,1,0,
-20271,Judgment,0,0,30,0,0,7.263,MANA:1500;
+20271,Judgment,0,0,30,0,0,7.18,MANA:1500;
 403664,Blades of Light,0,0,0,1,1,0,
 377043,Justification,0,0,0,1,1,0,
 384820,Sacrifice of the Just,0,0,0,1,1,0,
@@ -52,7 +52,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 406158,Divine Auxiliary,0,0,0,1,1,0,
 406064,Art of War,0,0,0,1,1,0,
 385425,Seal of Alacrity,0,0,0,1,1,0,
-7328,Redemption,8070,0,40,0,0,0,MANA:2000;
+7328,Redemption,7978,0,40,0,0,0,MANA:2000;
 190784,Divine Steed,0,0,0,0,1,45,
 85673,Word of Glory,0,0,40,0,0,0,HOLY_POWER:3;MANA:0;MANA:0;MANA:25000;
 267316,Mastery: Hand of Light,0,0,0,1,0,0,
@@ -73,11 +73,11 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 403479,Lightforged Blessing,0,0,0,1,1,0,
 343527,Execution Sentence,0,0,30,0,1,30,
 404512,Highlord's Judgment,0,0,0,1,1,0,
-19750,Flash of Light,1211,0,40,0,0,0,MANA:25000;MANA:0;MANA:0;MANA:0;
+19750,Flash of Light,1197,0,40,0,0,0,MANA:25000;MANA:0;MANA:0;MANA:0;
 403026,Penitence,0,0,0,1,1,0,
 385129,Seal of Order,0,0,0,1,1,0,
 406545,Vanguard of Justice,0,0,0,1,1,0,
-184575,Blade of Justice,0,0,20,0,1,9.684,
+184575,Blade of Justice,0,0,20,0,1,9.574,
 96231,Rebuke,0,0,0,0,1,15,
 385464,Incandescence,0,0,100,1,1,0,
 230332,Cavalier,0,0,0,1,1,0,
@@ -86,7 +86,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 403975,Inquisitor's Ire,0,0,0,1,1,0,
 385125,Of Dusk and Dawn,0,0,0,1,1,0,
 403745,Improved Blade of Justice,0,0,0,1,1,0,
-391054,Intercession,1614,0,40,0,0,600,HOLY_POWER:0;MANA:5000;MANA:0;
+391054,Intercession,1596,0,40,0,0,600,HOLY_POWER:0;MANA:5000;MANA:0;
 404357,Guided Prayer,0,0,0,1,1,0,
 405278,Boundless Judgment,0,0,0,1,1,0,
 115750,Blinding Light,0,0,0,0,1,90,MANA:3000;
@@ -104,7 +104,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 383342,Holy Blade,0,0,0,1,1,0,
 326732,Empyrean Power,0,0,0,1,1,0,
 402964,Sanctified Plates,0,0,0,1,1,0,
-10326,Turn Evil,1211,0,20,0,1,15,MANA:5250;
+10326,Turn Evil,1197,0,20,0,1,15,MANA:5250;
 231663,Greater Judgment,0,0,0,1,1,0,
 213644,Cleanse Toxins,0,0,40,0,1,8,MANA:25000;
 404436,Light of Justice,0,0,0,1,1,0,
@@ -115,7 +115,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 408459,Divine Purpose,0,0,0,1,1,0,
 343721,Final Reckoning,0,0,30,0,1,60,
 406872,Divine Wrath,0,0,0,1,1,0,
-24275,Hammer of Wrath,0,0,30,0,1,6.052,MANA:0;
+24275,Hammer of Wrath,0,0,30,0,1,5.983,MANA:0;
 383314,Vanguard's Momentum,0,0,0,1,1,0,
 376996,Seasoned Warhorse,0,0,0,1,1,0,
 403698,Light's Celerity,0,0,0,1,1,0,

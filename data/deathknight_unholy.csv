@@ -1,19 +1,19 @@
 id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 390268,Eternal Agony,0,0,0,1,1,0,
 377537,Death Rot,0,0,0,1,1,0,
-152280,Defile,0,0,30,0,1,20,RUNES:1;RUNIC_POWER:-10;
+152280,Defile,0,0,30,0,1,20,RUNES:1;RUNIC_POWER:10;
 391571,Gloom Ward,0,0,0,1,1,0,
 390270,Coil of Devastation,0,0,0,1,1,0,
 390175,Plaguebringer,0,0,0,1,1,0,
 51052,Anti-Magic Zone,0,0,30,0,1,120,
 207272,Infected Claws,0,0,0,1,1,0,
 374111,Might of Thassarian,0,0,0,1,1,0,
-111673,Control Undead,1260,0,30,0,1,0,RUNES:1;RUNIC_POWER:-10;
+111673,Control Undead,1260,0,30,0,1,0,RUNES:1;RUNIC_POWER:10;
 47528,Mind Freeze,0,0,15,0,1,15,RUNIC_POWER:0;
 316867,Improved Festering Strike,0,0,0,1,1,0,
 207289,Unholy Assault,0,0,0,0,1,90,
 49576,Death Grip,0,0,30,0,0,25,
-85948,Festering Strike,0,0,0,0,1,0,RUNES:2;RUNIC_POWER:-20;
+85948,Festering Strike,0,0,0,0,1,0,RUNES:2;RUNIC_POWER:20;
 373923,Merciless Strikes,0,0,0,1,1,0,
 48707,Anti-Magic Shell,0,0,0,0,1,60,
 47568,Empower Rune Weapon,0,0,0,0,1,0,
@@ -44,7 +44,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 275699,Apocalypse,0,0,0,0,1,90,
 377585,Replenishing Wounds,0,0,0,1,1,0,
 389682,Unholy Endurance,0,0,0,1,1,0,
-207311,Clawing Shadows,0,0,30,0,1,0,RUNES:1;RUNIC_POWER:-10;
+207311,Clawing Shadows,0,0,30,0,1,0,RUNES:1;RUNIC_POWER:10;
 383269,Abomination Limb,0,0,20,0,1,120,
 374030,Blood Scent,0,0,0,1,1,0,
 61999,Raise Ally,0,0,40,0,0,600,RUNIC_POWER:30;
@@ -55,20 +55,20 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 391546,March of Darkness,0,0,0,1,1,0,
 48265,Death's Advance,0,0,0,0,0,45,
 48792,Icebound Fortitude,0,0,0,0,1,180,
-50977,Death Gate,3360,0,0,0,0,60,RUNES:1;RUNIC_POWER:-10;
+50977,Death Gate,3360,0,0,0,0,60,RUNES:1;RUNIC_POWER:10;
 47541,Death Coil,0,0,30,0,0,0,RUNIC_POWER:30;
-43265,Death and Decay,0,0,30,0,0,30,RUNES:1;RUNIC_POWER:-10;
+43265,Death and Decay,0,0,30,0,0,30,RUNES:1;RUNIC_POWER:10;
 56222,Dark Command,0,0,30,0,0,8,
 63560,Dark Transformation,0,0,100,0,1,60,
-42650,Army of the Dead,0,0,0,0,1,480,RUNES:1;RUNIC_POWER:-10;
+42650,Army of the Dead,0,0,0,0,1,480,RUNES:1;RUNIC_POWER:10;
 374383,Assimilation,0,0,0,1,1,0,
 212552,Wraith Walk,0,0,0,0,1,60,
 374574,Rune Mastery,0,0,0,1,1,0,
 390161,Feasting Strikes,0,0,0,1,1,0,
 390259,Commander of the Dead,0,0,0,1,1,0,
-77575,Outbreak,0,0,30,0,1,0,RUNES:1;RUNIC_POWER:-10;
+77575,Outbreak,0,0,30,0,1,0,RUNES:1;RUNIC_POWER:10;
 390196,Magus of the Dead,0,0,0,1,1,0,
-55090,Scourge Strike,0,0,0,0,1,0,RUNES:1;RUNIC_POWER:-10;
+55090,Scourge Strike,0,0,0,0,1,0,RUNES:1;RUNIC_POWER:10;
 46584,Raise Dead,0,0,30,0,1,30,
 377592,Morbidity,0,0,0,1,1,0,
 194916,All Will Serve,0,0,0,1,1,0,
@@ -85,17 +85,17 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 374504,Brittle,0,0,0,1,1,0,
 207200,Permafrost,0,0,0,1,1,0,
 49039,Lichborne,0,0,0,0,0,120,
-115989,Unholy Blight,0,0,0,0,1,45,RUNES:1;RUNIC_POWER:-10;
+115989,Unholy Blight,0,0,0,0,1,45,RUNES:1;RUNIC_POWER:10;
 391566,Insidious Chill,0,0,0,1,1,0,
 46585,Raise Dead,0,0,30,0,1,120,
-45524,Chains of Ice,0,0,30,0,1,0,RUNES:1;RUNIC_POWER:-10;
+45524,Chains of Ice,0,0,30,0,1,0,RUNES:1;RUNIC_POWER:10;
 207269,Ebon Fever,0,0,0,1,1,0,
 377440,Unholy Aura,0,0,0,1,1,0,
 390279,Vile Contagion,0,0,30,0,1,90,RUNIC_POWER:30;
 207317,Epidemic,0,0,30,0,1,0,RUNIC_POWER:30;
 277234,Pestilence,0,0,0,1,1,0,
 49206,Summon Gargoyle,0,0,30,0,1,180,
-343294,Soul Reaper,0,0,0,0,1,6,RUNES:1;RUNIC_POWER:-10;
+343294,Soul Reaper,0,0,0,0,1,6,RUNES:1;RUNIC_POWER:10;
 206967,Will of the Necropolis,0,0,0,1,1,0,
 374265,Unholy Ground,0,0,0,1,1,0,
 316916,Cleaving Strikes,0,0,0,1,1,0,

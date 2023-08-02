@@ -50,7 +50,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 132157,Holy Nova,0,0,0,0,1,0,MANA:800;
 393870,Improved Flash Heal,0,0,0,1,1,0,
 199855,San'layn,0,0,0,1,1,0,
-373481,Power Word: Life,0,0,40,0,1,30,MANA:0;MANA:0;MANA:2000;
+373481,Power Word: Life,0,0,40,0,1,30,MANA:0;MANA:0;MANA:5000;
 17,Power Word: Shield,0,0,40,0,0,7.5,MANA:0;MANA:0;MANA:5000;MANA:0;
 2061,Flash Heal,1190,0,40,0,0,0,MANA:0;MANA:5000;MANA:0;MANA:0;
 391109,Dark Ascension,1190,0,0,0,1,60,
@@ -60,7 +60,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 15487,Silence,0,0,40,0,1,45,
 1706,Levitate,0,0,30,0,0,0,MANA:0;MANA:0;
 407430,Voidtouched,0,0,0,1,1,0,
-139,Renew,0,0,40,0,1,0,MANA:0;MANA:0;MANA:2000;
+139,Renew,0,0,40,0,1,0,MANA:0;MANA:0;MANA:4000;
 341273,Unfurling Darkness,0,0,0,1,1,0,
 391151,Mastermind,0,0,0,1,1,0,
 390667,Spell Warding,0,0,0,1,1,0,
@@ -79,7 +79,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 341167,Improved Mass Dispel,0,0,0,1,1,0,
 280752,Hallucinations,0,0,0,1,0,0,
 341491,Shadowy Apparitions,0,0,0,1,1,0,
-33076,Prayer of Mending,0,0,40,0,1,12,MANA:0;MANA:0;MANA:2000;
+33076,Prayer of Mending,0,0,40,0,1,12,MANA:0;MANA:0;MANA:5000;
 605,Mind Control,1428,0,30,0,1,0,MANA:1000;
 121536,Angelic Feather,0,0,40,0,1,20,
 390767,Blessed Recovery,0,0,0,1,1,0,

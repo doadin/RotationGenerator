@@ -29,7 +29,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 232893,Felblade,0,0,15,0,1,15,
 389708,Darkglare Boon,0,0,0,1,1,0,
 189110,Infernal Strike,0,0,30,0,0,16,
-203720,Demon Spikes,0,0,0,0,0,17.112,
+203720,Demon Spikes,0,0,0,0,0,17.042,
 247454,Spirit Bomb,0,0,0,0,1,0,FURY:40;
 320770,Unrestrained Fury,0,0,0,1,1,0,
 393822,Internal Struggle,0,0,0,1,1,0,
@@ -80,7 +80,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 389976,Vulnerability,0,0,0,1,1,0,
 343207,Focused Cleave,0,0,0,1,1,0,
 179057,Chaos Nova,0,0,0,0,1,60,FURY:30;
-263642,Fracture,0,0,0,0,1,3.85,
+263642,Fracture,0,0,0,0,1,3.834,
 390213,Burning Blood,0,0,0,1,1,0,
 212084,Fel Devastation,0,0,20,0,1,60,FURY:50;
 320380,Thick Skin,0,0,0,1,0,0,
@@ -99,7 +99,7 @@ id,name,castTime,minRange,maxRange,isPassive,isTalent,cooldown,costs
 389763,Master of the Glaive,0,0,0,1,1,0,
 207666,Concentrated Sigils,0,0,0,1,1,0,
 389694,Flames of Fury,0,0,0,1,1,0,
-370965,The Hunt,855,0,50,0,1,90,
+370965,The Hunt,852,0,50,0,1,90,
 320416,Blazing Path,0,0,0,1,1,0,
 198793,Vengeful Retreat,0,0,0,0,1,25,
 389695,Will of the Illidari,0,0,0,1,1,0,
