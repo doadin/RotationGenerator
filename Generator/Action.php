@@ -155,6 +155,9 @@ class Action {
 				case 'target_if':
 					$this->aplCondition = $this->parseExpression($value);
 					break;
+				case 'use_off_gcd':
+					$this->isBlacklisted = true;
+					break;
 				default:
 					throw new \Exception(
 						'Unrecognized call/run command: ' . $name . ' expression: ' . implode(',', $exploded)

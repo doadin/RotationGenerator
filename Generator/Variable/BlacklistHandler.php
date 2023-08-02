@@ -12,7 +12,7 @@ class BlacklistHandler extends Handler
 		'spinning_crane_kick', 'time_to_hpg', 'exsanguinated', 'master_assassin_remains', 'priority_rotation', 'will_lose_exsanguinate',
 		'pmultiplier', 'tick_time', 'exsanguinated_rate', 'improved_garrote_remains', 'ptr', 'time_to_sht', 'ti_lightning_bolt',
 		'ti_chain_lightning', 'alpha_wolf_min_remains', 'ti_lightning_bolt', 'used_for_danse', 'enemies', 't30_2pc_timer',
-        'two_cast_imps'
+        'two_cast_imps', 'freezable'
 	];
 
 	public function handle($lexer, $variableParts, &$output)
