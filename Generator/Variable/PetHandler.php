@@ -25,7 +25,9 @@ class PetHandler extends Handler
 			case 'ghoul':
 			case 'fiend':
 			case 'apoc_ghoul':
+			case 'apoc_magus':
 			case 'army_ghoul':
+			case 'army_magus':
 				$output[] = Helper::camelCase($variableParts[1]) . ucfirst($variableParts[2]);
 				break;
 			case 'turtle':
