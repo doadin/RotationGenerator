@@ -285,6 +285,9 @@ class Action {
 					case 'name':
 						$this->spellName = $value;
 						break;
+					case 'target':
+						$this->spellTarget = $this->parseExpression($value);
+						break;
 					case 'target_if':
 						$this->spellTarget = $this->parseExpression($value);
 						break;
